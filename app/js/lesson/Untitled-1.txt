@@ -1,0 +1,8 @@
+child extends parent{
+    constructor(name){
+        super(name);
+    }
+    static test (){
+
+    }
+}
